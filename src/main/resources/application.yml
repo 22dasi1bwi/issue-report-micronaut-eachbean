@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: eachbean
+
+foo:
+  bar:
+    aProperty: 'A'
